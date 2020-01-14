@@ -6,3 +6,5 @@ main text
 6th str
 
 8th str
+
+10th str

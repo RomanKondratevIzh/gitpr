@@ -1,2 +1,3 @@
 main text
 2nd str
+3rd str
